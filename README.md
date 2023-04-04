@@ -4,7 +4,7 @@
 
 Sou estudante de Cybersecurity. Tenho conhecimento em algumas linguagens de programação, incluindo Python, Java, JavaScript, HTML e CSS.
 
-## Linguagens de Programação
+## Tecnologias
 - Python :
 Possuo conhecimentos em Python para desenvolvimento de scripts e aplicações de pequeno e médio porte.
 Utilizei bibliotecas como Pandas e Numpy para análise de dados e Machine Learning.
