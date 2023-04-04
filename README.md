@@ -9,17 +9,17 @@ Sou estudante de Cybersecurity. Tenho conhecimento em algumas linguagens de prog
 Possuo conhecimentos em Python para desenvolvimento de scripts e aplicações de pequeno e médio porte.
 Utilizei bibliotecas como Pandas e Numpy para análise de dados e Machine Learning.
 
-## Java
+- Java :
 Aprendi Java em um curso de introdução à programação e fui capaz de criar aplicações básicas.
 Também utilizei o framework Spring Boot para desenvolvimento de aplicações web.
 
-## JavaScript
-- Tenho conhecimento em JavaScript e utilizei diversas bibliotecas, incluindo React e Angular, para criação de aplicações web.
+- JavaScript:
+ Tenho conhecimento em JavaScript e utilizei diversas bibliotecas, incluindo React e Angular, para criação de aplicações web.
 HTML e CSS
 Tenho habilidades em HTML e CSS para criação de páginas web responsivas e estilizadas.
 
-## Cybersecurity
-- Atualmente estou estudando Cybersecurity e aprendendo sobre práticas de segurança cibernética e proteção de dados.
+- Cybersecurity
+ Atualmente estou estudando Cybersecurity e aprendendo sobre práticas de segurança cibernética e proteção de dados.
 Aprendi a utilizar ferramentas como Nmap e Metasploit para testes de penetração e avaliação de vulnerabilidades.
 Também estou estudando criptografia e segurança de redes.
 Contato
