@@ -11,7 +11,7 @@ Utilizei bibliotecas como Pandas e Numpy para análise de dados alem de utilizar
 
 - Java :
 Aprendi Java em um curso de introdução à programação e fui capaz de criar aplicações básicas.
-Também utilizei o framework Spring Boot para desenvolvimento de aplicações web.
+Também utilizei o framework Spring para desenvolvimento de aplicações web.
 
 - JavaScript:
  Tenho conhecimento em JavaScript e utilizei diversas bibliotecas, incluindo React e Angular, para criação de aplicações web.
