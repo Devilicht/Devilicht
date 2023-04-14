@@ -14,7 +14,9 @@ Aprendi Java em um curso de introdução à programação e fui capaz de criar a
 Também utilizei o framework Spring para desenvolvimento de aplicações web.
 
 - JavaScript:
- Tenho conhecimento em JavaScript. HTML e CSS
+ Tenho conhecimento em JavaScript.
+ 
+- HTML e CSS
 Tenho habilidades em HTML e CSS para criação de páginas web responsivas e estilizadas.
 
 - Cybersecurity
