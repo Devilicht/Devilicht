@@ -24,7 +24,7 @@ eu tenho um conhecimento básico da linguagem e sou capaz de desenvolver soluç�
  Tenho conhecimento em JavaScript para desenvolvimento de aplicações Web.
  
 - HTML e CSS :
-Tenho habilidades em HTML e CSS para criação de páginas web responsivas e estilizadas.]
+Tenho habilidades em HTML e CSS para criação de páginas web responsivas e estilizadas.
 
 - Cybersecurity :
 Atualmente estou estudando Cybersecurity e aprendendo sobre práticas de segurança cibernética e proteção de dados.
