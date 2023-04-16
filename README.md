@@ -2,7 +2,7 @@
 ## Ola, Eu sou Josué!
 
 
-Sou estudante de Cybersecurity. Tenho conhecimento em algumas linguagens de programação, incluindo Python, Java, JavaScript, HTML e CSS.
+Sou estudante de Cybersecurity. Tenho conhecimento em algumas linguagens de programação, incluindo Python, Java, Ruby, Elixir, JavaScript, HTML e CSS.
 
 ## Tecnologias
 - Python :
