@@ -18,10 +18,7 @@ Bom, eu já desenvolvi alguns projetos com Ruby, inclusive aplicações usando o
 Eu acredito que a minha experiência com Ruby me permitiu construir soluções de software de alta qualidade, e estou confiante de que posso contribuir para projetos que utilizem essa linguagem.
 
 - Elixir :
-Minha introdução à linguagem Elixir e como comecei a estudar sua sintaxe e recursos
-Minha jornada de aprendizado em Elixir, incluindo desafios e conquistas
-Como a linguagem Elixir complementa minhas habilidades em Ruby e Rails
-Como estou aplicando meu conhecimento em Elixir em projetos atuais e futuros para oferecer soluções melhores e mais eficientes para os meus clientes.
+eu tenho um conhecimento básico da linguagem e sou capaz de desenvolver soluções simples utilizando seus conceitos. Embora eu ainda não tenha trabalhado em projetos muito complexos com Elixir, eu já tive a oportunidade de criar algumas aplicações simples e explorar seus recursos.
 
 - JavaScript :
  Tenho conhecimento em JavaScript para desenvolvimento de aplicações Web.
