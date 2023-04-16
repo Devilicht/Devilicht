@@ -20,6 +20,7 @@ Também utilizei o framework Spring para desenvolvimento de aplicações web.
 Tenho habilidades em HTML e CSS para criação de páginas web responsivas e estilizadas.]
 
 - Ruby
+
 Bom, eu já desenvolvi alguns projetos com Ruby, inclusive aplicações usando o framework Ruby on Rails. Com essa experiência, eu consegui entender bem os princípios de arquitetura MVC e como trabalhar com bancos de dados. Além disso, eu sinto que tenho habilidades para desenvolver aplicações escaláveis e eficientes com Ruby.
 Eu acredito que a minha experiência com Ruby me permitiu construir soluções de software de alta qualidade, e estou confiante de que posso contribuir para projetos que utilizem essa linguagem.
 
