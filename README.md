@@ -13,23 +13,23 @@ Utilizei bibliotecas como Pandas e Numpy para análise de dados alem de utilizar
 Aprendi Java em um curso de introdução à programação e fui capaz de criar aplicações básicas.
 Também utilizei o framework Spring para desenvolvimento de aplicações web.
 
-- JavaScript:
- Tenho conhecimento em JavaScript.
- 
-- HTML e CSS
-Tenho habilidades em HTML e CSS para criação de páginas web responsivas e estilizadas.]
-
-- Ruby:
+- Ruby :
 Bom, eu já desenvolvi alguns projetos com Ruby, inclusive aplicações usando o framework Ruby on Rails. Com essa experiência, eu consegui entender bem os princípios de arquitetura MVC e como trabalhar com bancos de dados. Além disso, eu sinto que tenho habilidades para desenvolver aplicações escaláveis e eficientes com Ruby.
 Eu acredito que a minha experiência com Ruby me permitiu construir soluções de software de alta qualidade, e estou confiante de que posso contribuir para projetos que utilizem essa linguagem.
 
-- Elixir
+- Elixir :
 Minha introdução à linguagem Elixir e como comecei a estudar sua sintaxe e recursos
 Minha jornada de aprendizado em Elixir, incluindo desafios e conquistas
 Como a linguagem Elixir complementa minhas habilidades em Ruby e Rails
 Como estou aplicando meu conhecimento em Elixir em projetos atuais e futuros para oferecer soluções melhores e mais eficientes para os meus clientes.
 
-- Cybersecurity:
+- JavaScript :
+ Tenho conhecimento em JavaScript para desenvolvimento de aplicações Web.
+ 
+- HTML e CSS :
+Tenho habilidades em HTML e CSS para criação de páginas web responsivas e estilizadas.]
+
+- Cybersecurity :
 Atualmente estou estudando Cybersecurity e aprendendo sobre práticas de segurança cibernética e proteção de dados.
 Aprendi a utilizar ferramentas como Nmap e Metasploit para testes de penetração e avaliação de vulnerabilidades.
 Também estou estudando criptografia e segurança de redes.
@@ -42,12 +42,13 @@ Se quiser entrar em contato comigo, pode me encontrar no LinkedIn ou através do
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Devilicht&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Devilicht/github-readme-stats#gh-dark-mode-only)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Oblivion-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ 
   <img align="center" alt="Oblivion-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Oblivion-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Oblivion-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="Oblivion-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
    <img align="center" alt="Oblivion-Elixir" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
-  <img align="center" alt="Oblivion-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Oblivion-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Oblivion-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Oblivion-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
