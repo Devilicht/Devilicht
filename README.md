@@ -46,7 +46,7 @@ Se quiser entrar em contato comigo, pode me encontrar no LinkedIn ou através do
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devilicht&layout=compact&langs_count=6&text_color=ffffff&theme=react&hide=jupyter%20notebook&hide_border=true&show_icons&title_color=9F2626"
       alt="Github streak stats" height="180em" /></a>
   <!--https://github.com/DenverCoder1/github-readme-streak-stats-->
-</div>
+
 
 
 <div style="display: inline_block"><br>
@@ -72,6 +72,6 @@ Se quiser entrar em contato comigo, pode me encontrar no LinkedIn ou através do
   <a href="https://www.linkedin.com/in/josué-Magalhães" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
-
+</div>
  
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=footer"/>
