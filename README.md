@@ -1,5 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=header"/>
 
-## Ola, Eu sou Josué!
+# Ola, Eu sou Josué!
 
 
 Sou estudante de Cybersecurity. Tenho conhecimento em algumas linguagens de programação, incluindo Python, Java, Ruby, Elixir, JavaScript, HTML e CSS.
@@ -71,3 +72,6 @@ Se quiser entrar em contato comigo, pode me encontrar no LinkedIn ou através do
   <a href="https://www.linkedin.com/in/josué-Magalhães" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
+
+ 
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=footer"/>
