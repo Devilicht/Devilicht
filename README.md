@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=header"/>
 
-# Ola, Eu sou Oblivion!
+# Ola, Eu sou Josué!
 
 
 Sou estudante de Cybersecurity. Tenho conhecimento em algumas linguagens de programação, incluindo Python, Java, Ruby, Elixir, JavaScript, HTML e CSS.
