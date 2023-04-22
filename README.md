@@ -15,7 +15,7 @@ Aprendi Java em um curso de introdução à programação e fui capaz de criar a
 Também utilizei o framework Spring para desenvolvimento de aplicações web.
 
 - Ruby :
-Bom, eu já desenvolvi alguns projetos com Ruby, inclusive aplicações usando o framework Ruby on Rails. Com essa experiência, eu consegui entender bem os princípios de arquitetura MVC e como trabalhar com bancos de dados. Além disso, eu sinto que tenho habilidades para desenvolver aplicações escaláveis e eficientes com Ruby.
+Bom, eu já desenvolvi alguns projetos com Ruby, inclusive aplicações usando o framework Ruby on Rails. Com essa experiência, eu consegui entender bem os princípios de arquitetura MVC.
 
 - Elixir :
 eu tenho um conhecimento básico da linguagem e sou capaz de desenvolver soluções simples utilizando seus conceitos. Embora eu ainda não tenha trabalhado em projetos muito complexos com Elixir, eu já tive a oportunidade de criar algumas aplicações simples e explorar seus recursos.
