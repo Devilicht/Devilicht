@@ -30,8 +30,7 @@ Tenho habilidades em HTML e CSS para criação de páginas web responsivas e est
 Atualmente estou estudando Cybersecurity e aprendendo sobre práticas de segurança cibernética e proteção de dados.
 Aprendi a utilizar ferramentas como Nmap e Metasploit para testes de penetração e avaliação de vulnerabilidades.
 Também estou estudando criptografia e segurança de redes.
-Contato
-Se quiser entrar em contato comigo, pode me encontrar no LinkedIn ou através do meu e-mail.
+
 
 
 
