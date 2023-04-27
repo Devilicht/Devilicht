@@ -62,7 +62,6 @@ Também estou estudando criptografia e segurança de redes.
   ##
  
 <div> 
- <a href="Oblivion#2859" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="mailto:oblivionccyber@gmail.com 
 ">
     <img src="https://custom-icon-badges.demolab.com/badge/e%E2%80%93mail-0078D4.svg?logo=maildotru&logoColor=white&style=for-the-badge"
