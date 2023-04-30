@@ -6,7 +6,7 @@ Sou estudante de Cybersecurity. Estudo desenvolvimento Backend ha 2 anos e comec
 ## Tecnologias
 > Backend
 - Python: Possuo conhecimentos em Python para desenvolvimento de scripts de médio porte.
-Utilizei bibliotecas como Pandas,Numpy e Matplot para análise de dados alem de scrapings e de utilizar ele na web com Flask e Django.
+Utilizei bibliotecas como Pandas,Numpy e Matplot para análise de dados alem de scrapings,selenium e de utilizar ele na web com Flask e Django.
 
 - Java: Aprendi Java em um curso de introdução à programação e fui capaz de criar aplicações básicas.
 Também utilizei o framework Spring para desenvolvimento de aplicações web.
