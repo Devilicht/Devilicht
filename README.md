@@ -22,7 +22,7 @@ Aprendi a utilizar ferramentas como Nmap e Metasploit para testes de penetraçã
 Também estou estudando criptografia e segurança de redes.
 
 > DevOps
-- Docker: Sempre utilizo para a criação das images dos projetos que trabalho, sempre tento trabahar com varios stage de ambiente para facilitar o deploy.
+- Docker: Sempre utilizo para a criação das imagens dos projetos que trabalho, e tambem trabalho com varios stage de ambiente para facilitar o deploy.
 
 - Azure: Usei o Azure DevOps para gerenciar o código-fonte, criar pipelines de compilação e implantação automatizadas, monitorar o desempenho e a disponibilidade do aplicativo em tempo real e coletar dados de telemetria para análise posterior.
 
