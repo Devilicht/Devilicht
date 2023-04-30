@@ -4,6 +4,7 @@
 Sou estudante de Cybersecurity. Estudo desenvolvimento Backend ha 2 anos e comecei a me aprofundar recentemente em DevOps.
 
 ## Tecnologias
+> Backend
 - Python: Possuo conhecimentos em Python para desenvolvimento de scripts de médio porte.
 Utilizei bibliotecas como Pandas,Numpy e Matplot para análise de dados alem de scrapings e de utilizar ele na web com Flask e Django.
 - Java: Aprendi Java em um curso de introdução à programação e fui capaz de criar aplicações básicas.
@@ -16,8 +17,11 @@ Também utilizei o framework Spring para desenvolvimento de aplicações web.
 Aprendi a utilizar ferramentas como Nmap e Metasploit para testes de penetração e avaliação de vulnerabilidades.
 Também estou estudando criptografia e segurança de redes.
 
-
-
+> DevOps
+- Docker: Sempre utilizo para a criação das images dos projetos que trabalho, sempre tento trabahar com varios stage de ambiente para facilitar o deploy.
+- Azure: Usei o Azure DevOps para gerenciar o código-fonte, criar pipelines de compilação e implantação automatizadas, monitorar o desempenho e a disponibilidade do aplicativo em tempo real e coletar dados de telemetria para análise posterior.
+- Rabbitmq: Utilizei o RabbitMQ para processamento assíncrono de tarefas. Criei uma conexão com o servidor, uma fila para armazenar as mensagens, um produtor para enviar as mensagens para a fila e um consumidor para ler e processar as mensagens.
+- Cluster: Usei com o Hadoop e Kubernetes, além de outros sistemas de gerenciamento de cluster. Tenho familiaridade com os princípios básicos de escalabilidade e gerenciamento de recursos, bem como técnicas de tolerância a falhas.
 
 <div align='center'>
   <a href="#">
