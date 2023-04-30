@@ -7,8 +7,8 @@ Sou estudante de Cybersecurity. Tenho conhecimento em algumas linguagens de prog
 
 ## Tecnologias
 - Python :
-Possuo conhecimentos em Python para desenvolvimento de scripts e aplicações de pequeno e médio porte.
-Utilizei bibliotecas como Pandas e Numpy para análise de dados alem de utilizar ele na web com Flask e Django.
+Possuo conhecimentos em Python para desenvolvimento de scripts de médio porte.
+Utilizei bibliotecas como Pandas,Numpy e Matplot para análise de dados alem de utilizar ele na web com Flask e Django.
 
 - Java :
 Aprendi Java em um curso de introdução à programação e fui capaz de criar aplicações básicas.
@@ -21,7 +21,7 @@ Bom, eu já desenvolvi alguns projetos com Ruby, inclusive aplicações usando o
 eu tenho um conhecimento básico da linguagem e sou capaz de desenvolver soluções simples utilizando seus conceitos. Embora eu ainda não tenha trabalhado em projetos muito complexos com Elixir, eu já tive a oportunidade de criar algumas aplicações simples e explorar seus recursos.
 
 - JavaScript :
- Tenho conhecimento em JavaScript para desenvolvimento de aplicações Web.
+ Tenho conhecimento em JavaScript e pretendo em breve desenvolver uns projetos com node.js.
  
 - HTML e CSS :
 Tenho habilidades em HTML e CSS para criação de páginas web responsivas e estilizadas.
