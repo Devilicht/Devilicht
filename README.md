@@ -17,8 +17,6 @@ Também utilizei o framework Spring para desenvolvimento de aplicações web.
 
 - JavaScript: Tenho conhecimento em JavaScript e pretendo em breve desenvolver uns projetos com node.js.
 
-- HTML e CSS: Tenho habilidades em HTML e CSS para criação de páginas web responsivas e estilizadas.
-
 - Cybersecurity: Atualmente estou estudando Cybersecurity e aprendendo sobre práticas de segurança cibernética e proteção de dados.
 Aprendi a utilizar ferramentas como Nmap e Metasploit para testes de penetração e avaliação de vulnerabilidades.
 Também estou estudando criptografia e segurança de redes.
