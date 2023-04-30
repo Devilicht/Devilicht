@@ -1,8 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=header"/>
 
 # Ola, Eu sou Josué!
-
-
 Sou estudante de Cybersecurity. Estudo desenvolvimento Backend ha 2 anos e comecei a me aprofundar recentemente em DevOps.
 
 ## Tecnologias
@@ -38,7 +36,7 @@ Também estou estudando criptografia e segurança de redes.
   <a href="#">
     <img
       src="https://github-readme-stats.vercel.app/api?username=Devilicht&show_icons=true&text_color=ffffff&theme=react&count_private=true&hide_border=true&title_color=9F2626&icon_color=9F2626"
-      alt="Github profile stats" height="160em" /></a>
+      alt="Github profile stats" height="180em" /></a>
   <!--https://github.com/anuraghazra/github-readme-stats-->
   <a href="#">
     <img
