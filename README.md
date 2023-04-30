@@ -38,7 +38,7 @@ Também estou estudando criptografia e segurança de redes.
   <a href="#">
     <img
       src="https://github-readme-stats.vercel.app/api?username=Devilicht&show_icons=true&text_color=ffffff&theme=react&count_private=true&hide_border=true&title_color=9F2626&icon_color=9F2626"
-      alt="Github profile stats" height="180em" /></a>
+      alt="Github profile stats" height="160em" /></a>
   <!--https://github.com/anuraghazra/github-readme-stats-->
   <a href="#">
     <img
