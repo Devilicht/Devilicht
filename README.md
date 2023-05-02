@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=header"/>
 
 # Ola, Eu sou Josué!
-Sou estudante de Cybersecurity(Tecnologo). Sou desenvolvimento Backend ha 1 ano e comecei a me aprofundar no inicio do ano em DevOps.
+Sou estudante de Cybersecurity(Tecnologo). Sou desenvolvedor Backend ha 1 ano e comecei a me aprofundar no inicio do ano em DevOps.
 
 ## Tecnologias
 > Backend
