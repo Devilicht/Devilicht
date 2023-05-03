@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=header"/>
 
 # Ola, Eu sou Josué!
-Sou estudante de Cybersecurity(Tecnologo). Sou desenvolvedor Backend ha 1 ano e comecei a me aprofundar no inicio do ano em DevOps.
+Sou estudante de Cybersecurity(Tecnologo). Sou desenvolvedor ha 1 ano e comecei a me aprofundar no inicio do ano em DevOps.
 
 ## Tecnologias
-> Backend
+> Language
 - Python: Possuo conhecimentos em Python para desenvolvimento de scripts de médio porte.
 Utilizei bibliotecas como Pandas,Numpy e Matplot para análise de dados alem de scrapings,selenium e de utilizar ele na web com Flask e Django.
 
