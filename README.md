@@ -4,6 +4,11 @@
 Sou estudante de Cybersecurity(Tecnologo). Sou desenvolvedor ha 1 ano e comecei a me aprofundar no inicio do ano em DevOps.
 
 ## Tecnologias
+
+- Cybersecurity: Atualmente estou estudando Cybersecurity e aprendendo sobre práticas de segurança cibernética e proteção de dados.
+Aprendi a utilizar ferramentas como Nmap e Metasploit para testes de penetração e avaliação de vulnerabilidades.
+Também estou estudando criptografia e segurança de redes.
+
 > Language
 - Python: Possuo conhecimentos em Python para desenvolvimento de scripts de médio porte.
 Utilizei bibliotecas como Pandas,Numpy e Matplot para análise de dados alem de scrapings,selenium e de utilizar ele na web com Flask e Django.
@@ -16,10 +21,6 @@ Também utilizei o framework Spring para desenvolvimento de aplicações web.
 - Elixir: eu tenho um conhecimento básico da linguagem e sou capaz de desenvolver soluções simples utilizando seus conceitos. Embora eu ainda não tenha trabalhado em projetos muito complexos com Elixir, eu já tive a oportunidade de criar algumas aplicações simples e explorar seus recursos.
 
 - JavaScript: Tenho conhecimento em JavaScript e pretendo em breve desenvolver uns projetos com node.js.
-
-- Cybersecurity: Atualmente estou estudando Cybersecurity e aprendendo sobre práticas de segurança cibernética e proteção de dados.
-Aprendi a utilizar ferramentas como Nmap e Metasploit para testes de penetração e avaliação de vulnerabilidades.
-Também estou estudando criptografia e segurança de redes.
 
 > DevOps
 - Docker: Sempre utilizo para a criação das imagens dos projetos que trabalho, e tambem trabalho com varios stage de ambiente para facilitar o deploy.
