@@ -15,8 +15,6 @@ Utilizei bibliotecas como Pandas,Numpy e Matplot para análise de dados alem de 
 
 - Ruby: Bom, eu já desenvolvi alguns projetos com Ruby com analise de dados utilizando MongoDB NOSQL. Inclusive aplicações usando o framework Ruby on Rails. Com essa experiência, eu consegui entender bem os princípios de arquitetura MVC.
 
-- JavaScript: Tenho conhecimento em JavaScript e pretendo em breve desenvolver uns projetos com node.js.
-
 > DevOps
 - Docker: Sempre utilizo para a criação das imagens dos projetos que trabalho, e tambem trabalho com varios stage de ambiente para facilitar o deploy.
 
