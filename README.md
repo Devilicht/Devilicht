@@ -13,12 +13,7 @@ Também estou estudando criptografia e segurança de redes.
 - Python: Possuo conhecimentos em Python para desenvolvimento de scripts de médio porte.
 Utilizei bibliotecas como Pandas,Numpy e Matplot para análise de dados alem de scrapings,selenium e de utilizar ele na web com Flask e Django.
 
-- Java: Aprendi Java em um curso de introdução à programação e fui capaz de criar aplicações básicas.
-Também utilizei o framework Spring para desenvolvimento de aplicações web.
-
 - Ruby: Bom, eu já desenvolvi alguns projetos com Ruby com analise de dados utilizando MongoDB NOSQL. Inclusive aplicações usando o framework Ruby on Rails. Com essa experiência, eu consegui entender bem os princípios de arquitetura MVC.
-
-- Elixir: eu tenho um conhecimento básico da linguagem e sou capaz de desenvolver soluções simples utilizando seus conceitos. Embora eu ainda não tenha trabalhado em projetos muito complexos com Elixir, eu já tive a oportunidade de criar algumas aplicações simples e explorar seus recursos.
 
 - JavaScript: Tenho conhecimento em JavaScript e pretendo em breve desenvolver uns projetos com node.js.
 
