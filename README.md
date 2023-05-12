@@ -11,7 +11,7 @@ Também estou estudando criptografia e segurança de redes.
 
 > Language
 - Python: Possuo conhecimentos em Python para desenvolvimento de scripts de médio porte.
-Utilizei bibliotecas como Pandas,Numpy e Matplot para análise de dados alem de scrapings,selenium e de utilizar ele na web com Flask.
+Utilizei bibliotecas como Pandas,Numpy,Matplot, para análise de dados alem de scrapings,selenium e de utilizar ele na web com Flask.
 
 - Ruby: Bom, eu já desenvolvi alguns projetos com Ruby com analise de dados utilizando MongoDB NOSQL. Inclusive estou criando uma aplicação usando o framework Ruby on Rails. Com essa experiência, eu estou conseguindo entender bem os princípios de arquitetura MVC.
 
@@ -22,7 +22,7 @@ Utilizei bibliotecas como Pandas,Numpy e Matplot para análise de dados alem de 
 
 - Rabbitmq: Compreendo os conceitos do RabbitMQ para processamento assíncrono de tarefas. Pretendo desenvolver em breve, uma aplicação que faça uma conexão com o servidor, uma fila para armazenar as mensagens, um produtor para enviar as mensagens para a fila e um consumidor para ler e processar as mensagens.
 
-- Cluster: Usei com o Hadoop e Kubernetes, além de outros sistemas de gerenciamento de cluster. Tenho familiaridade com os princípios básicos de escalabilidade e gerenciamento de recursos, bem como técnicas de tolerância a falhas.
+- Cluster:Estudei Kubernetes. Tenho familiaridade com os princípios básicos de escalabilidade e gerenciamento de recursos, bem como técnicas de tolerância a falhas.
 
 <div align='center'>
   <a href="#">
