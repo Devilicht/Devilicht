@@ -11,7 +11,7 @@ Também estou estudando criptografia e segurança de redes.
 
 > Language
 - Python: Possuo conhecimentos em Python para desenvolvimento de scripts de médio porte.
-Utilizei bibliotecas como Pandas,Numpy,Matplot, para análise de dados alem de scrapings,selenium e de utilizar ele na web com Flask.
+Utilizei bibliotecas como Pandas,Numpy,Matplot,scikit e plotly para análise de dados alem de scrapings,selenium e de utilizar ele na web com Flask.
 
 - Ruby: Bom, eu já desenvolvi alguns projetos com Ruby com analise de dados utilizando MongoDB NOSQL. Inclusive estou criando uma aplicação usando o framework Ruby on Rails. Com essa experiência, eu estou conseguindo entender bem os princípios de arquitetura MVC.
 
