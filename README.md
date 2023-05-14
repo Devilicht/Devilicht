@@ -41,7 +41,6 @@ Utilizei bibliotecas como Pandas,Numpy,Matplot,scikit e plotly para análise de 
 <div style="display: inline_block"><br>
  
 
-
   ##
  
 <div> 
