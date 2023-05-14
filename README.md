@@ -27,12 +27,12 @@ Utilizei bibliotecas como Pandas,Numpy,Matplot,scikit e plotly para análise de 
 <div align='center'>
   <a href="#">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=Devilicht&show_icons=true&text_color=ffffff&theme=react&count_private=true&hide_border=true&title_color=9F2626&icon_color=9F2626"
+      src="https://github-readme-stats.vercel.app/api?username=Devilicht&show_icons=true&text_color=ffffff&theme=react&count_private=true&hide_border=false&title_color=9F2626&icon_color=9F2626"
       alt="Github profile stats" height="180em" /></a>
   <!--https://github.com/anuraghazra/github-readme-stats-->
   <a href="#">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devilicht&layout=compact&langs_count=8&text_color=ffffff&theme=react&hide=jupyter%20notebook&hide_border=true&show_icons&title_color=9F2626"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devilicht&layout=compact&langs_count=8&text_color=ffffff&theme=react&hide=jupyter%20notebook&hide_border=false&show_icons&title_color=9F2626"
       alt="Github streak stats" height="180em" /></a>
   <!--https://github.com/DenverCoder1/github-readme-streak-stats-->
 
