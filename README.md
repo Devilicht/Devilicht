@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=header"/>
 
 # Ola, Eu sou Oblivion!
-Sou estudante de Cybersecurity(Tecnologo). Sou desenvolvedor ha 1 ano e comecei a me aprofundar no inicio do ano em DevOps.
+Sou estudante de Cybersecurity, e atuo com desenvolvimento e DevOps.
 
 ## Tecnologias
 
