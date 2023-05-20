@@ -31,9 +31,9 @@ Utilizei bibliotecas como Pandas,Numpy,Matplot,scikit e plotly para análise de 
       alt="Github profile stats" height="180em" /></a>
   <!--https://github.com/anuraghazra/github-readme-stats-->
   <a href="#">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devilicht&layout=compact&langs_count=8&text_color=ffffff&theme=react&hide=jupyter%20notebook&hide_border=false&show_icons&title_color=9F2626"
-      alt="Github streak stats" height="180em" /></a>
+    <img 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devilicht&layout=compact&langs_count=8&text_color=ffffff&theme=react&hide=jupyter%20notebook&hide_border=false&show_icons&title_color=9F2626&hide_title=false"            alt="Github streak stats" height="180em" />
+
   <!--https://github.com/DenverCoder1/github-readme-streak-stats-->
 
 
