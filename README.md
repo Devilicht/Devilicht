@@ -26,7 +26,7 @@ Tenho experiência com várias ferramentas e práticas relacionadas a DevOps, in
 
 - Docker: Tenho experiência em utilização do Docker para criação de ambientes de desenvolvimento e implantação eficientes e escaláveis.
 - Automação: Utilizo o Ansible e Vagrant para automatizar tarefas de configuração e implantação de infraestrutura.
-- Integração Contínua/Implantação Contínua: Trabalhei com ferramentas como Jenkins e GitLab CI/CD para criar pipelines de entrega contínua e integração contínua.
+- CI/CD: Trabalhei com ferramentas como Jenkins e GitLab para criar pipelines de entrega contínua e integração contínua.
 - Controle de Versionamento: Utilizo o Git como sistema de controle de versão para rastrear alterações em código e infraestrutura.
 - Monitoramento de Logs: Tenho experiência com Elasticsearch e Grafana para monitorar e analisar logs de sistemas.
 
