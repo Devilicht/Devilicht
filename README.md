@@ -2,7 +2,7 @@
 
 # Olá, Eu sou Oblivion!
 
-Sou um estudante apaixonado por Cybersecurity, com experiência em desenvolvimento e DevOps.
+Sou um estudante apaixonado por Cybersecurity e Linux, com experiência em desenvolvimento e DevOps.
 
 ## Cybersecurity
 
