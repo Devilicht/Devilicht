@@ -1,28 +1,39 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=header"/>
 
-# Ola, Eu sou Oblivion!
-Sou estudante de Cybersecurity, e atuo com desenvolvimento e DevOps.
+# Olá, Eu sou Oblivion!
+
+Sou um estudante apaixonado por Cybersecurity, com experiência em desenvolvimento e DevOps.
 
 ## Tecnologias
 
-- Cybersecurity: Atualmente estou estudando Cybersecurity e aprendendo sobre práticas de segurança cibernética e proteção de dados.
-Aprendi a utilizar ferramentas como Nmap e Metasploit para testes de penetração e avaliação de vulnerabilidades.
-Também estou estudando criptografia e segurança de redes.
+### Cybersecurity
 
-> Language
-- Python: Possuo conhecimentos em Python para desenvolvimento de scripts de médio porte.
-Utilizei bibliotecas como Pandas,Numpy,Matplot,scikit e plotly para análise de dados alem de scrapings,selenium e de utilizar ele na web com Flask.
+Atualmente, estou focado em aprimorar minhas habilidades em Cybersecurity, aprendendo práticas de segurança cibernética e proteção de dados. Estou cursando a graduação em Cybersecurity e também estou realizando a formação de pentest profissional pela Desec. Além disso, tenho experiência com a plataforma TryHackMe, onde aprofundo meus conhecimentos em segurança cibernética. Tenho interesse especial em análise de malware, engenharia reversa, desenvolvimento seguro e desenvolvimento de malware, onde estão na minha rotina de aprendizado.
 
-- Ruby: Bom, eu já desenvolvi alguns projetos com Ruby com analise de dados utilizando MongoDB NOSQL. Inclusive estou criando uma aplicação usando o framework Ruby on Rails. Com essa experiência, eu estou conseguindo entender bem os princípios de arquitetura MVC.
+### Linguagens de Programação
 
-> DevOps
-- Docker: Sempre utilizo para a criação das imagens dos projetos que trabalho, e tambem trabalho com varios stage de ambiente para facilitar o deploy.
+Tenho experiência e conhecimento em diversas linguagens de programação, incluindo:
 
-- Azure: Usei o Azure DevOps para gerenciar o código-fonte, criar pipelines de compilação e implantação automatizadas, monitorar o desempenho e a disponibilidade do aplicativo em tempo real e coletar dados de telemetria para análise posterior.
+- Go: Utilizo Go para desenvolver aplicações APIs de alto desempenho e seguras.
+- ShellScript: Uso ShellScript para automação de tarefas e scripts de sistemas.
+- Rust: Tenho interesse em Rust por sua segurança e performance e estou trabalhando em projetos com o mesmo.
+- C/C++: Tenho experiência em C/C++ para desenvolvimento de sistemas de baixo nível e aplicativos de alto desempenho.
+- Python: Utilizo Python para automação, análise de dados e desenvolvimento de scripts.
+- Ruby: Tenho conhecimento em Ruby para desenvolvimento web(Rails) e automação.
+- Java: Tenho experiência em desenvolvimento Java para aplicações simples.
 
-- Rabbitmq: Compreendo os conceitos do RabbitMQ para processamento assíncrono de tarefas. Pretendo desenvolver em breve, uma aplicação que faça uma conexão com o servidor, uma fila para armazenar as mensagens, um produtor para enviar as mensagens para a fila e um consumidor para ler e processar as mensagens.
+### DevOps
 
-- Cluster:Estudei Kubernetes. Tenho familiaridade com os princípios básicos de escalabilidade e gerenciamento de recursos, bem como técnicas de tolerância a falhas.
+Tenho experiência com várias ferramentas e práticas relacionadas a DevOps, incluindo:
+
+- Docker: Tenho experiência em utilização do Docker para criação de ambientes de desenvolvimento e implantação eficientes e escaláveis.
+- Automação: Utilizo o Ansible e Vagrant para automatizar tarefas de configuração e implantação de infraestrutura.
+- Integração Contínua/Implantação Contínua: Trabalhei com ferramentas como Jenkins e GitLab CI/CD para criar pipelines de entrega contínua e integração contínua.
+- Controle de Versionamento: Utilizo o Git como sistema de controle de versão para rastrear alterações em código e infraestrutura.
+- Monitoramento de Logs: Tenho experiência com Elasticsearch e Grafana para monitorar e analisar logs de sistemas.
+
+Atualmente, estou estudando mais sobre desenvolvimento seguro e cloud computing, expandindo meu conhecimento nessas áreas.
+
 
 <div align='center'>
   <a href="#">
