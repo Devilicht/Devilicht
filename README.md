@@ -22,15 +22,15 @@ Tenho experiência e conhecimento em diversas linguagens de programação, inclu
 
 ## DevOps
 
-Tenho experiência com várias ferramentas e práticas relacionadas a DevOps, incluindo:
+Estou estudando e tenho experiencia com as seguintes ferramentas de DevOps, incluindo:
 
 - Docker: Tenho experiência em utilização do Docker para criação de ambientes de desenvolvimento e implantação eficientes e escaláveis.
-- Automação: Utilizo o Ansible e Vagrant para automatizar tarefas de configuração e implantação de infraestrutura.
-- CI/CD: Trabalhei com ferramentas como Jenkins e GitLab para criar pipelines de entrega contínua e integração contínua.
+- Automação: Tenho experiencia com Ansible e Vagrant para automatizar tarefas de configuração e implantação de infraestrutura.
+- CI/CD: tenho conhecimento com Github Actions para criar pipelines de entrega contínua e integração contínua.
 - Controle de Versionamento: Utilizo o Git como sistema de controle de versão para rastrear alterações em código e infraestrutura.
-- Monitoramento de Logs: Tenho experiência com Elasticsearch e Grafana para monitorar e analisar logs de sistemas.
+- Monitoramento de Logs: Estou aplicando em um projeto Open-Source zabbix e Grafana para monitorar e analisar logs de sistemas.
 
-Atualmente, estou estudando mais sobre desenvolvimento seguro e cloud computing, expandindo meu conhecimento nessas áreas.
+Atualmente, estou estudando mais sobre Kubernets e cloud computing, expandindo meu conhecimento nessas áreas.
 
 
 <div align='center'>
