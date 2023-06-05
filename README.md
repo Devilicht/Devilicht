@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=header"/>
 
-# Olá, Eu sou Oblivion!
+# Olá, Eu sou Josué !
 
 Sou um estudante apaixonado por Cybersecurity e Linux, com experiência em desenvolvimento e DevOps.
 
