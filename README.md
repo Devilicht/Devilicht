@@ -7,17 +7,6 @@ Sou um estudante apaixonado por Cybersecurity e Linux, com experiência em desen
 ## Cybersecurity
 
 Atualmente, estou focado em aprimorar minhas habilidades em Cybersecurity, aprendendo práticas de segurança cibernética e proteção de dados. Estou cursando a graduação em Cybersecurity e também tenho experiência com a plataforma TryHackMe, onde aprofundo meus conhecimentos em segurança cibernética. 
-## Languages
-
-Tenho experiência e conhecimento em diversas linguagens de programação, incluindo:
-
-- Go: Utilizo Go para desenvolver aplicações APIs de alto desempenho e seguras.
-- ShellScript: Uso ShellScript para automação de tarefas e scripts de sistemas.
-- Rust: Tenho interesse em Rust por sua segurança e performance e estou trabalhando em projetos com o mesmo.
-- C/C++: Tenho experiência em C/C++ para desenvolvimento de sistemas de baixo nível e aplicativos de alto desempenho.
-- Python: Utilizo Python para automação,scraping/selenium,desenvolvimento de API, análise de dados e desenvolvimento de scripts.
-- Ruby: Tenho conhecimento em Ruby para desenvolvimento web(Rails) e automação.
-- Java: Tenho experiência em desenvolvimento Java para aplicações simples.
 
 ## DevOps
 
@@ -31,17 +20,10 @@ Estou estudando e tenho experiencia com as seguintes ferramentas de DevOps, incl
 
 Atualmente, estou estudando mais sobre Kubernets e cloud computing, expandindo meu conhecimento nessas áreas.
 
-
 <div align='center'>
   <a href="#">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Devilicht&show_icons=true&text_color=ffffff&theme=react&count_private=true&hide_border=false&title_color=9F2626&icon_color=9F2626"
-      alt="Github profile stats" height="180em" /></a>
-  <!--https://github.com/anuraghazra/github-readme-stats-->
-  <a href="#">
-    <img 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devilicht&layout=compact&langs_count=8&text_color=ffffff&theme=react&hide=html&hide_border=false&show_icons&title_color=9F2626&hide_title=false"            alt="Github streak stats" height="180em" />
-
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devilicht&layout=compact&langs_count=8&text_color=ffffff&theme=react&hide=html&hide_border=false&show_icons&title_color=9F2626&hide_title=false&card_width=500" alt="Github streak stats" height="180em" />
+  </a>
   <!--https://github.com/DenverCoder1/github-readme-streak-stats-->
 
 
