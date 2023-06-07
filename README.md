@@ -40,7 +40,7 @@ Atualmente, estou estudando mais sobre Kubernets e cloud computing, expandindo m
   <!--https://github.com/anuraghazra/github-readme-stats-->
   <a href="#">
     <img 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devilicht&layout=compact&langs_count=8&text_color=ffffff&theme=react&hide=jupyter%20notebook&hide_border=true&show_icons&title_color=9F2626&hide_title=false"            alt="Github streak stats" height="180em" />
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devilicht&layout=compact&langs_count=8&text_color=ffffff&theme=react&hide=html&hide_border=true&show_icons&title_color=9F2626&hide_title=false"            alt="Github streak stats" height="180em" />
 
   <!--https://github.com/DenverCoder1/github-readme-streak-stats-->
 
