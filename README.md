@@ -12,7 +12,7 @@ Atualmente, estou focado em aprimorar minhas habilidades em Cybersecurity, apren
 
 Estou estudando e tenho experiencia com as seguintes ferramentas de DevOps, incluindo:
 
-- Docker: Tenho experiência em utilização do Docker para criação de ambientes de desenvolvimento e implantação eficientes e escaláveis.
+- Containerização: Tenho experiência em utilização do Docker para criação de ambientes de desenvolvimento e implantação eficientes e escaláveis.
 - Automação: Tenho experiencia com Ansible e Vagrant para automatizar tarefas de configuração e implantação de infraestrutura.
 - CI/CD: tenho conhecimento com Github Actions para criar pipelines de entrega contínua e integração contínua.
 - Controle de Versionamento: Utilizo o Git como sistema de controle de versão para rastrear alterações em código e infraestrutura.
@@ -20,7 +20,7 @@ Estou estudando e tenho experiencia com as seguintes ferramentas de DevOps, incl
 
 <div align='center'>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devilicht&layout=compact&langs_count=8&text_color=ffffff&theme=react&&hide=html&hide_border=true&show_icons&title_color=9F2626&hide_title=false&" alt="Github streak stats" height="180em" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devilicht&layout=compact&langs_count=8&text_color=ffffff&theme=react&&hide=html&hide_border=false&show_icons&title_color=9F2626&hide_title=false&" alt="Github streak stats" height="180em" />
   </a>
 
 
