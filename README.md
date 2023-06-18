@@ -6,7 +6,7 @@ Sou um estudante apaixonado por Cybersecurity e Linux, com experiência em desen
 
 ## Cybersecurity
 
-Atualmente, estou focado em aprimorar minhas habilidades em Cybersecurity, aprendendo práticas de segurança cibernética e proteção de dados. Estou cursando a graduação em Cybersecurity e também tenho experiência com a plataforma TryHackMe, onde aprofundo meus conhecimentos em segurança cibernética. 
+Atualmente, estou focado em aprimorar minhas habilidades em Cybersecurity, aprendendo práticas de segurança cibernética e proteção de dados. Estou cursando a graduação em Cybersecurity e também tenho experiência com a plataforma TryHackMe, onde aprofundo meus conhecimentos em segurança cibernética e sou TOP 3%. 
 
 ## DevOps
 
