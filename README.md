@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=300000&height=120&section=header"/>
 
-# Olá, Eu sou Ghost !
+## Hello, I'm Ghost !
 
->I'm an offensive security analyst with development and infrastructure experience.
+>Offensive security analyst with development and infrastructure experience.
 
 >Here you will find some APIs, infrastructure automation and vulnerability testing scripts, exploits, and who knows later reverse engineering.
 
