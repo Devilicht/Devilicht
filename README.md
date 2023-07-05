@@ -6,7 +6,7 @@
 
 >Here you will find some APIs, infrastructure automation and vulnerability testing scripts, exploits, and who knows later reverse engineering.
 
-> CTF player on TryHackMe in the top 2% ranking.
+> CTF player on TryHackMe in the top 1% ranking.
 
 <div style="display: inline_block"><br>
 
